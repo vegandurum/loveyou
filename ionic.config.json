@@ -1,0 +1,7 @@
+{
+  "name": "loveyou",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
